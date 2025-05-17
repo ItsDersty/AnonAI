@@ -1,0 +1,8 @@
+customtkinter
+Pillow
+easyocr
+pdfplumber
+opencv-python
+numpy
+natasha
+requests
